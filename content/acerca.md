@@ -6,6 +6,4 @@ draft: false
 
 {{<image src="blog-akc-emprende.png" width="100%">}}
 
-> Notas acerca de emprendimiento.
-
-[Ir al blog](https://akc-emprende.netlify.app)
+Notas sobre de emprendimiento.
