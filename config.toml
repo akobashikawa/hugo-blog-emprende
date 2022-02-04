@@ -106,7 +106,7 @@ theme = "LoveIt"
     enable = true
     # Google Analytics
     [params.analytics.google]
-      id = "G-0SHKRWC37P"
+      id = "G-NVHKSZ4T2X"
 
 [params.footer]
   custom = 'AKC Emprende &copy;2022 - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /> </a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International License </a>'
